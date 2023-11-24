@@ -1,0 +1,170 @@
+.boxes{
+    position: relative;
+    background: #FFF;
+}
+.box1{
+    text-align: center;
+}
+.box1 h1{
+    color: #000;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.firstInput{
+    color: #D9D9D9;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 79px;
+border: 1px solid #D9D9D9;
+background: #FFF;
+padding-top: 42px;
+padding-bottom: 42px;
+padding-left: 52px;
+padding-right: 505px;
+}
+.btn1{
+    color: #FFF;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 53px;
+background: #7041D3;
+border: none;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left:87px ;
+padding-right:87px ;
+margin-top: 36px;
+}
+
+.box2{
+    text-align: center;
+    display: none;
+}
+.box2 h1{
+    color: #000;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.secondInput{
+    color: #D9D9D9;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 79px;
+border: 1px solid #D9D9D9;
+background: #FFF;
+padding-top: 42px;
+padding-bottom: 42px;
+padding-left: 52px;
+padding-right: 505px;
+}
+.btn2{
+    color: #FFF;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 53px;
+background: #7041D3;
+border: none;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left:87px ;
+padding-right:87px ;
+margin-top: 36px;
+margin-bottom: 60px;
+}
+.box2 h2{
+border-radius: 5px;
+background: #CC3030;
+width: 778px;
+height: 90px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 0 auto;
+padding-top: 12px;
+}
+
+.box3{
+    text-align: center;
+    display: none;
+    
+}
+.box3 h1{
+    color: #000;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+}
+.thirdInput{
+    color: #D9D9D9;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 79px;
+border: 1px solid #D9D9D9;
+background: #FFF;
+padding-top: 42px;
+padding-bottom: 42px;
+padding-left: 52px;
+padding-right: 505px;
+}
+.btn3{
+    color: #FFF;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 53px;
+background: #7041D3;
+border: none;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left:87px ;
+padding-right:87px ;
+margin-top: 36px;
+margin-bottom: 60px;
+}
+.box3 h2{
+    color: #000;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    
+    
+}
+
+.box4{
+    display: none;
+    color: #000;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
